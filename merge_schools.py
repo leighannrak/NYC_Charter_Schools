@@ -47,7 +47,7 @@ merged.drop(columns=["Institution ID", "Charter School Name", "County", "GIS Lon
 print("Files successfully exported!")
 
 # 8. Create NYC map
-api_key = "cb1_57ro_1_3e9bacb7f11d8edc851444e6"
+api_key = "xyz"  # Replace with your actual API key, provided through email
 tiles = (
     f"https://basemaps.cartocdn.com/"
     f"rastertiles/light_all/{{z}}/{{x}}/{{y}}.png?key={api_key}"

@@ -26,5 +26,6 @@ High-Level Methodology:
 
 
 How To Run:
-1. Run the Python script: python merge_schools.py
-2. Open index.html in your browser to see the map.
+1. Open and update the API Key in line 50- it will be provided through email. Save the file.
+2. Run the Python script: python merge_schools.py
+3. Open index.html in your browser to see the map.
